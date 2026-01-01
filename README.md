@@ -1,6 +1,6 @@
 # Ganesh_007
 my profile 
-<h2 align="left">Hi👋 My name is Ganesh and I'm a Fullstack Developer, from chennai</h2>
+<h2 align="left">Hi👋I'm Ganesh and a Fullstack Developer, from chennai</h2>
 
 ###
 
